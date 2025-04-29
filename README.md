@@ -19,8 +19,7 @@ Size and Structure
   · Columns: 23 
     Each row represents a specific racial or ethnic group in a particular California location (such as a city or county) during the reporting period.
 
-  <img width="637" alt="image" src="https://github.com/user-attachments/assets/0715b629-d372-4b2c-a50b-55820137caeb" />
-  <img width="667" alt="image" src="https://github.com/user-attachments/assets/697461d2-f795-4047-98b2-9846806972e0" />
+  <img width="637" alt="image" src="https://github.com/user-attachments/assets/0715b629-d372-4b2c-a50b-55820137caeb" />  <img width="667" alt="image" src="https://github.com/user-attachments/assets/697461d2-f795-4047-98b2-9846806972e0" />
 
 This dataset helps show which communities in California are struggling the most with food costs. By looking at how much of their income different groups spend on food, it displays where the biggest gaps and challenges are. It’s especially useful for researchers, public health workers, and policymakers who want to better understand food insecurity, make fair decisions about where to send support, and track whether things are getting better over time.
 
