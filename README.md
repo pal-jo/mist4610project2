@@ -61,6 +61,12 @@ The analysis shows a moderate positive correlation between family size and meal 
 There are also notable regional outliers, especially in Shasta and the San Joaquin Valley, where affordability remains low even for average-sized families. These regions face multiple compounding issues such as low wages, high poverty rates, and significant food insecurity, particularly among farmworker populations. The lack of food infrastructure in these areas further contributes to the problem, creating what are effectively food deserts.
 
 
+# Tableau Files
+
+## Question 1 
+
+
+
 
 
 
